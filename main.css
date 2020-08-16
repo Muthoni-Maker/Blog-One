@@ -1,0 +1,23 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+}
+body{
+    width:100vw;
+    height:100vh;
+    margin:10px;
+}
+
+#header{
+    background-image:url("https://cdn.pixabay.com/photo/2020/04/28/12/55/iceland-5104382__340.jpg");
+    background-size:cover;
+    height:50vh;
+    width:100vw;
+    color:white;
+    font-size:30px;
+}
+#body-content{
+    color:black;
+   
+}
